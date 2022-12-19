@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Pranav</h1>
+<h1 align="center">Hi! I'm Sai Pranav</h1>
 <h3 align="center">student at BMS College of Engineering, Bangalore,India</h3>  
 <b>beginner web (MERN stack,next.js) developer</b>
 
