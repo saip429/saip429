@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **solidity,next.js,distrubuted systems with java**
 
-- 📫 How to reach me **saipranav429@gmail.com**
+- 📫 Reach me at: **saipranav429@gmail.com**
 
 
 - ⚡ Fun fact **Sometimes I like to game :)**
