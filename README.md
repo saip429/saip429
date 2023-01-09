@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **saipranav429@gmail.com**
 
-- 📄 My resume [https://resume.io/r/P1kFtzcnF](https://resume.io/r/P1kFtzcnF)
+- 📄 My resume https://resume.io/r/hYHYSAXB9
 
 - ⚡ Fun fact **Sometimes I like to game :)**
 
