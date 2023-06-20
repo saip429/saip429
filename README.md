@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Sai Pranav</h1>
 <h3 align="center">student at BMS College of Engineering, Bangalore,India</h3>  
-<b>beginner web (MERN stack,next.js) developer</b>
+<b>beginner web (MERN stack,next.js) developer and ML enthusiast</b>
 
-- 🌱 I’m currently learning **solidity,next.js,distrubuted systems with java**
+- 🌱 I’m currently learning **next.js, and big data analytics with hadoop ecosystem**
 
 - 📫 Reach me at: **saipranav429@gmail.com**
 
