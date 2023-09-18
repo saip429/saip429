@@ -4,6 +4,6 @@
 * Beginner web developer and machine learning enthusiast  
 * currently learning deep learning 
 #### languages and tools: python, java, javascript
-* Machine Learning: sklearn, pandas, numpy  
+* Machine Learning: sklearn, pandas, numpy, tensorflow
 * web development: django, next.js, node.js 
 * databases: mySQL, MongoDB, cassandraDB, redis
