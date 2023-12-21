@@ -2,9 +2,9 @@
 #### Engineering student from Bengaluru, India 
 ## About me:  
 * Based in Bengaluru, India
-* Interested in backend development
+* Machine learning enthusiast and beginner full stack developer
 #### languages and tools: python, java, javascript
-* Machine Learning: sklearn, pandas, numpy
+* Machine Learning: pytorch, tensorflow, sklearn
 * web development: django, next.js, node.js 
 * databases: mySQL, MongoDB, cassandraDB, redis
 
