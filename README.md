@@ -1,12 +1,9 @@
 # Hey there! I'm Sai Pranav     
-#### Engineering student from Bengaluru, India 
+#### Software Development Engineer  
 ## About me:  
 * Based in Bengaluru, India
-* Machine learning enthusiast and beginner full stack developer
-#### languages and tools: python, java, javascript
-* Machine Learning: pytorch, tensorflow, sklearn
-* web development: django, next.js, node.js 
-* databases: mySQL, MongoDB, cassandraDB, redis
+* currently working as an automation engineer at a distributed cloud firm. I mostly deal with network programming, k8s, test automation in go and chaos engineering. 
+#### languages and tools: golang, python, kubernetes
+* Also familiar with javascript based web development, aws and gcp, Jenkins cicd. 
 
-### reach out to me:  
-email: saipranav.429@gmail.com
+
