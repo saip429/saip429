@@ -2,8 +2,8 @@
 #### Software Development Engineer  
 ## About me:  
 * Based in Bengaluru, India
-* currently working as an automation engineer at a distributed cloud firm. I mostly deal with network programming, k8s, test automation in go and chaos engineering. 
+* currently working as a backend developer and automation test engineer at a distributed cloud firm. I mostly deal with networking, k8s, backend development and test automation in golang. 
 #### languages and tools: golang, python, kubernetes
-* Also familiar with javascript based web development, aws and gcp, Jenkins cicd. 
+* Also familiar with web development, jenkins   cicd
 
 
